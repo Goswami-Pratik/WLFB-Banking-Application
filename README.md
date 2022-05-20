@@ -9,7 +9,9 @@ server will hold the client bank accounts and execute the operations as per the 
 Additionally, a custom logger feature will be developed that will allow me to debug and demonstrate
 how the server operates.
 
-![Client-Server Architecture](docs/Client-Server-Architecture.png)
+<p align="center">
+  <img src="docs/Client-Server-Architecture.png">
+</p>
 
 ## Requirements
 
